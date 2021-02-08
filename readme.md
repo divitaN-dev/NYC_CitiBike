@@ -7,7 +7,7 @@ Tools used - Tableau, Pandas library with Python and Jupyter Notebook.
 ## Results
 
 * For Tableau story please refer here - 
-[Link to dashboard]("https://public.tableau.com/profile/div8028#!/vizhome/NYCcitibike_16127547262800/NYCCitibikeSummary?publish=yes")
+![Link to dashboard]("https://public.tableau.com/profile/div8028#!/vizhome/NYCcitibike_16127547262800/NYCCitibikeSummary?publish=yes")
 
 * The summer peak hours in August appear to be between 7-10 pm.
 
@@ -41,6 +41,6 @@ Tools used - Tableau, Pandas library with Python and Jupyter Notebook.
 
 * Most popular starting location is Manahattan, hinting at a higher number of tourists in the area.
 
-![district-summary](https://github.com/divitaN-dev/NYC_CitiBike/blob/main/visualisations/trip-duration.png)
+![](https://github.com/divitaN-dev/NYC_CitiBike/blob/main/visualisations/tourist-map.png)
 
 
